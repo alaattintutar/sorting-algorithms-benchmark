@@ -1,5 +1,3 @@
-import java.util.Stack;
-
 public class QuickSort {
     public void quickSort(int[] arr, int low, int high) {
         int stackSize = high - low + 1;
