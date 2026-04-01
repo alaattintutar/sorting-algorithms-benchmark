@@ -1,0 +1,10 @@
+# Java IDE outputs
+*.class
+target/
+out/
+.idea/
+.vscode/
+
+# Project specifics
+*.csv
+*.pdf
